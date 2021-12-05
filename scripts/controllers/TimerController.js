@@ -121,7 +121,7 @@ class TimerController {
     }
 
     get futureDate() {
-        return new Date(Date.UTC(2021, 11, 13, 16));
+        return new Date(Date.UTC(2021, 11, 12, 16));
     }
 
     get currentDateEl() {
